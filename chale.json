@@ -1,0 +1,89 @@
+{
+ "slug": "demo-base",
+ "nome": "Nome do Chalé",
+ "nome_curto": "Nome do Chalé",
+ "cidade": "Cidade",
+ "uf": "MG",
+ "endereco": "Estrada Exemplo, s/n\nCidade · MG",
+ "endereco_curto": "Estrada Exemplo, s/n · Cidade · MG",
+ "whatsapp": "",
+ "instagram": "",
+ "links": [],
+ "maps_query": "Cidade MG",
+ "meta_desc": "Chalé com vista, conforto e natureza. Reserve direto com os anfitriões.",
+ "tema": {},
+ "hero": {
+  "eyebrow": "Cidade · Minas Gerais",
+  "foto": "hero",
+  "titulo": "Acorde com *a vista* aos seus pés",
+  "sub": "Texto de apresentação do chalé: o que ele tem de especial, em uma ou duas frases.",
+  "barra": [
+   ["Destaque 1", "detalhe"],
+   ["Destaque 2", "detalhe"],
+   ["Destaque 3", "detalhe"],
+   ["Destaque 4", "detalhe"]
+  ]
+ },
+ "faixa": ["Vista", "Natureza", "Conforto", "Silêncio", "Café da manhã", "Lareira"],
+ "historia": {
+  "foto_a": "historia-a",
+  "alt_a": "O chalé",
+  "foto_b": "historia-b",
+  "alt_b": "Detalhe do chalé",
+  "titulo": "Um refúgio feito com *carinho*",
+  "paragrafos": [
+   "Parágrafo 1: como o lugar nasceu, quem são os anfitriões.",
+   "Parágrafo 2: o que torna a hospedagem diferente."
+  ],
+  "assinatura": "Os anfitriões"
+ },
+ "comodos": {
+  "titulo": "Cada cômodo com *conforto*",
+  "lead": "Resumo dos ambientes do chalé.",
+  "itens": [
+   {"foto": "quarto", "alt": "Quarto", "rotulo": "Quarto", "titulo": "Título do quarto",
+    "texto": "Descrição do quarto.", "tags": ["Tag 1", "Tag 2", "Tag 3"]},
+   {"foto": "banheiro", "alt": "Banheiro", "rotulo": "Banheiro", "titulo": "Título do banheiro",
+    "texto": "Descrição do banheiro.", "tags": ["Tag 1", "Tag 2"]},
+   {"foto": "cozinha", "alt": "Cozinha e sala", "rotulo": "Cozinha e sala", "titulo": "Título da cozinha",
+    "texto": "Descrição da cozinha e da sala.", "tags": ["Tag 1", "Tag 2"]},
+   {"foto": "varanda", "alt": "Varanda", "rotulo": "Varanda", "titulo": "Título da varanda",
+    "texto": "Descrição da varanda e da área externa.", "tags": ["Tag 1", "Tag 2"]}
+  ]
+ },
+ "experiencias": {
+  "titulo": "Mais que dormir: *viver* o lugar",
+  "lead": "Experiências oferecidas pelos anfitriões.",
+  "itens": [
+   {"foto": "exp-1", "alt": "Experiência 1", "titulo": "Experiência 1", "texto": "Descrição."},
+   {"foto": "exp-2", "alt": "Experiência 2", "titulo": "Experiência 2", "texto": "Descrição."},
+   {"foto": "exp-3", "alt": "Experiência 3", "titulo": "Experiência 3", "texto": "Descrição."},
+   {"foto": "exp-4", "alt": "Experiência 4", "titulo": "Experiência 4", "texto": "Descrição."}
+  ],
+  "nota": "Itens de consumo, passeios e experiências são cobrados à parte."
+ },
+ "galeria": [
+  ["g1", "Legenda 1"], ["g2", "Legenda 2"], ["g3", "Legenda 3"], ["g4", "Legenda 4"],
+  ["g5", "Legenda 5"], ["g6", "Legenda 6"], ["g7", "Legenda 7"], ["g8", "Legenda 8"]
+ ],
+ "comodidades": [
+  ["bed", "Comodidade 1", "Detalhe"],
+  ["wifi", "Comodidade 2", "Detalhe"],
+  ["utensils", "Comodidade 3", "Detalhe"],
+  ["flame", "Comodidade 4", "Detalhe"],
+  ["car", "Estacionamento", "Detalhe"],
+  ["paw", "Pet", "Detalhe"]
+ ],
+ "reservas": {
+  "max_hospedes": 4,
+  "aceita_pet": true,
+  "obs_placeholder": "Aniversário, lua de mel, pedido especial…"
+ },
+ "local": {
+  "titulo": "Fácil de *chegar*",
+  "lead": "Como chegar e o que há na região.",
+  "gps": "Busque pelo nome do chalé no GPS.",
+  "estacionamento": "Estacionamento gratuito na propriedade."
+ },
+ "final": {"titulo": "O descanso *já está esperando*", "foto": "final"}
+}
